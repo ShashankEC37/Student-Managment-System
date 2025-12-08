@@ -10,5 +10,5 @@ const PORT = 3000;
 ConnectDB();
 
 app.listen(PORT, () => {
-  console.log("Application is running in PORT", PORT);
+  console.log("Application is running in      PORT", PORT);
 });
